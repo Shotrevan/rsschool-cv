@@ -18,3 +18,8 @@ React Basics
 
 **Education**
 Bachelor's degree in food technology (Agricultural university of Georgia)
+
+**Languages**
+Georgian - Native
+English - B1
+Russian - B2
