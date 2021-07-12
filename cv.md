@@ -14,7 +14,7 @@ I'm Shotiko, 24 years old. I've started programming few months ago and got more 
 HTML5
 CSS3
 JavaScript
-React Base
+React Basics
 
 **Education**
 Bachelor's degree in food technology (Agricultural university of Georgia)
